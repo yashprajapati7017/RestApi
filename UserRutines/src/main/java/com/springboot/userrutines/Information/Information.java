@@ -53,7 +53,7 @@ public class Information {
             else{
                 return null;
             }
-        }).collect(Collectors.toList());+
+        }).collect(Collectors.toList());
     }
 
 }
